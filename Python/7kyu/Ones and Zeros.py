@@ -1,3 +1,4 @@
+#21th march 2023
 ############################
 # Given an array of ones and zeroes, convert the equivalent binary value to an integer.
 
