@@ -18,7 +18,7 @@
 
 ### Haskell
 * ⭐ 6kyu
-	* [Detect Panagram.hs](https://github.com/mintnea/codewars/blob/main/Haskell/6kyu/Detect%Panagram.hs)
+	* [Detect Panagram.hs](https://github.com/mintnea/codewars/blob/main/Haskell/6kyu/Detect%20Panagram.hs)
 * ⭐ 7kyu
 	* [Complementary DNA.hs](https://github.com/mintnea/codewars/blob/main/Haskell/7kyu/Complementary%20DNA.hs)
-	* [Printer Errors.hs](https://github.com/mintnea/codewars/blob/main/Haskell/7kyu/Printer%Errors.hs)
+	* [Printer Errors.hs](https://github.com/mintnea/codewars/blob/main/Haskell/7kyu/Printer%20Errors.hs)
