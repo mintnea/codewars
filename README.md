@@ -15,3 +15,10 @@
 ### 🌱 Groovy
 * ⭐ 6kyu
 	* [Multiplication table.groovy](https://github.com/mintnea/codewars/blob/main/Groovy/6kyu/Multiplication%20table.groovy)
+
+### Haskell
+* ⭐ 6kyu
+	* [Detect Panagram.hs](https://github.com/mintnea/codewars/blob/main/Haskell/6kyu/Detect%Panagram.hs)
+* ⭐ 7kyu
+	* [Complementary DNA.hs](https://github.com/mintnea/codewars/blob/main/Haskell/7kyu/Complementary%20DNA.hs)
+	* [Printer Errors.hs](https://github.com/mintnea/codewars/blob/main/Haskell/7kyu/Printer%Errors.hs)
